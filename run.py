@@ -23,7 +23,7 @@ from dueutil import util, events, dbconn
 MAX_RECOVERY_ATTEMPTS = 100
 
 stopped = False
-bot_key = ""
+bot_key = "NDgyMDA3Nzc3NzkxODM2MTcx.Dl-prw.wS6ChdvxG8LsSVmgnyMgw8o7ARs"
 shard_count = 0
 shard_clients = []
 shard_names = []
